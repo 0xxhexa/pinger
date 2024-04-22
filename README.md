@@ -1,2 +1,1 @@
-# pinger
-See if an ip is online
+If you need help add 0xhexa. on discord
